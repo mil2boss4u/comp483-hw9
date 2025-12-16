@@ -4,7 +4,7 @@ console.log(value);
 
 //Exercise 2
 var projectIdentifier = "COMP484";
-ProjectIdentifier = "JS_Advanced"; //Doesn't work because javascript is case sensative and won't work unless you use the same exact name
+// ProjectIdentifier = "JS_Advanced"; //Doesn't work because javascript is case sensative and won't work unless you use the same exact name
 projectIdentifier = "JS_Advanced";
 console.log(projectIdentifier);
 
